@@ -1,0 +1,2 @@
+# static-quickmongo
+Static quickmongo
