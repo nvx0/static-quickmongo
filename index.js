@@ -11,7 +11,7 @@ const { Database } = require("quickmongo");
 const fs = require("fs");
 
   if (fs.existsSync("./mongoConfig.json")) {
-    //file exists
+    /* Config file exists */
   } else {
     console.log("error | File ./mongoConfig.json is not present in current folder.")
     console.log("  ")
