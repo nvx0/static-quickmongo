@@ -1,5 +1,5 @@
 # **Static for quickmongo** 
-
+Static quickmongo
 #
 
 # **Installation**
